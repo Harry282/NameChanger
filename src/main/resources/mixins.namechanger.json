@@ -1,0 +1,9 @@
+{
+  "minVersion": "0.6",
+  "compatibilityLevel": "JAVA_8",
+  "package": "namechanger.mixins",
+  "refmap": "mixins.${modid}.refmap.json",
+  "client": [
+    "MixinFontRenderer"
+  ]
+}
